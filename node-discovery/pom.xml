@@ -8,7 +8,7 @@
         <version>3.2.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.training.turkcell</groupId>
+    <groupId>training.spring.microservice</groupId>
     <artifactId>node-discovery</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>node-discovery</name>
